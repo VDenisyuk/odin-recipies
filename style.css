@@ -1,8 +1,18 @@
 * {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid red;
+}
+
+body {
+    max-width: 800px;
+    margin: auto;
 }
 
 img {
     width: 300px;
     height: auto;
+}
+
+.recipe-name {
+    text-align: center;
 }
